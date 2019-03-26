@@ -1,0 +1,29 @@
+.confirm-col,
+.quantity-select-col {
+  padding: 0 !important;
+}
+
+.btn-link {
+  color: black !important;
+}
+
+.purchase-select-container {
+  background-color: white;
+  width: 8rem !important;
+}
+
+.confirm-col .btn {
+  border-radius: 0;
+}
+
+.confirm-col:nth-child(1) {
+  border-right: 0.1rem solid white;
+}
+
+#cancel-icon {
+  color: red;
+}
+
+#confirm-icon {
+  color: green;
+}

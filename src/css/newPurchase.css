@@ -1,0 +1,8 @@
+.new-purchase-container {
+  width: 6rem !important;
+}
+
+.new-purchase-container .col-5 {
+  width: 8rem !important;
+  padding: 0 !important;
+}

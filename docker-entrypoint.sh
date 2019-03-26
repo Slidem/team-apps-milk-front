@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+REACT_APP_AUTH_BASE_URL=http://$1:$2/teamapps-auth REACT_APP_AUTH_AUTHORIZATION_URL=http://$1:$2/teamapps-auth/oauth/authorize REACT_APP_AUTH_CLIENT_ID=teamapps REACT_APP_AUTH_SCOPE=teamapps REACT_APP_APP_URL=http://$1:$4? REACT_APP_MILK_API_URL=http://$1:$3/milk-service/ npm start

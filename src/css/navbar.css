@@ -1,0 +1,12 @@
+.dropdown-menu {
+  width: 20rem;
+  font-size: 0.8rem !important;
+}
+
+.dropdown-toggle {
+  cursor: pointer;
+}
+
+.fa-user-circle {
+  font-size: 4rem !important;
+}
