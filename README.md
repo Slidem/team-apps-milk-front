@@ -8,9 +8,15 @@ The applications can be various and are solely developed for fun amongst the tea
 
 This is the first app I've developed for the teamapps category; it's a simple milk management frontend that manages who buys milk for coffe in the office :);
 
-- Milk app service:
+- Milk app service: https://github.com/Slidem/team-apps-milk-service
 - Authentication server (backend): https://github.com/Slidem/team-apps-oauth2-server
 - Authentication server (frontend): https://github.com/Slidem/team-apps-login
+
+## The project
+
+Simple front-end app developed with react, using milk-service for the backend and the team apps authentication server for authentication.
+
+![milk front](frontend.bmp)
 
 ## Goal
 
